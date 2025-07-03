@@ -1,4 +1,4 @@
-# 🏏 Sports SQL Project
+# Sports SQL Project
 
 This SQL project is designed to manage and analyze data related to sports teams, players, coaches, and matches. It simulates real-world sports tournament management using a **normalized relational database schema**.
 
