@@ -22,7 +22,7 @@ The database consists of **7 tables**:
 
 ## 🧠 ER Diagram
 
-<img src="er of sports.PNG" alt="ER Diagram" width="600"/>
+![ER Diagram](https://github.com/vj220803/Sports_SQL/blob/main/er%20of%20sports.PNG)
 
 - ✔️ `team` to `coach` → Many-to-Many via `team_coach`
 - ✔️ `team` to `player` → Many-to-Many via `team_player`
